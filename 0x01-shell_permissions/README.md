@@ -1,0 +1,1 @@
+Readme shell permissions
